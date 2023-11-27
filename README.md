@@ -1,8 +1,18 @@
+---
+title: genetic_algorithm_playground
+app_file: find_best_strategy.py
+sdk: gradio
+sdk_version: 4.7.1
+---
 # Genetic Algorithm Visualization Tool
 
 This project, `find_best_strategy.py`, is a Genetic Algorithm Visualization Tool designed to simulate and visualize the evolution of strategies in a genetic algorithm. The tool uses a simple genetic algorithm to evolve strategies for guessing a target number within a specified range. It provides insights into how strategies evolve over generations, the impact of mutation, and the randomness involved in the selection process.
 
 ![Frontend Interface](images/frontend.png)
+
+# Try it out yourself
+
+The script is hosted on [huggingface.co](https://huggingface.co/spaces/SvenSommer/genetic_algorithm_playground)
 
 ## What are Genetic Algorithms?
 
